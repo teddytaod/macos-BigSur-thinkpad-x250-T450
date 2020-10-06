@@ -1,5 +1,5 @@
 # mac os-BigSur-thinkpad-x250
-### OC 0.61. download https://github.com/acidanthera/OpenCorePkg/releases  , copy ACPI , Drivers,Kexts, config.plist to OC .
+### OC 0.61.or OC 0.62 download https://github.com/acidanthera/OpenCorePkg/releases  , copy ACPI , Drivers,Kexts, config.plist to OC .
 
 ### BigSur beta 6 to beta 9.
 
