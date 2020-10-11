@@ -2,9 +2,11 @@
 ### OpenCore 0.62 for MacOS BigSur Beta 9 
 ###  hibernation problem ,so don't forget completely turn off hibernate 
 
-sudo pmset -a sleep 0; 
-sudo pmset -a hibernatemode 0; 
-sudo pmset -a disablesleep 1;
+sudo pmset -a sleep 0
+
+sudo pmset -a hibernatemode 0
+
+sudo pmset -a disablesleep 1
 
 sudo rm -f /var/vm/sleepimage
 
