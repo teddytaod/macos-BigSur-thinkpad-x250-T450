@@ -1,6 +1,6 @@
 # mac os-BigSur-thinkpad-x250
 ### OpenCore 0.62 for MacOS BigSur Beta 9 
-###  hibernation problem ,so don't forget completely turn off hibernate 
+###  hibernate problem ,so don't forget completely turn off hibernate 
 
 sudo pmset -a sleep 0
 
