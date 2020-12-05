@@ -4,7 +4,7 @@
 
 ### The newest OC EFI, download https://github.com/teddytaod/macos-BigSur-thinkpad-x250/releases/
 ### update 20201205 fix earphone problem or no sound --https://github.com/chris1111/VoodooHDA-OC to download
-### wireless(wifi usb)---https://github.com/chris1111/WirelessAdapterCloverBigSur  to download
+### wireless(wifi usb)---https://github.com/chris1111/Wireless-USB-OC-Big-Sur-Adapter  to download
 
 
 ###  hibernate problem ,so don't forget completely turn off hibernate
