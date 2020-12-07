@@ -14,10 +14,5 @@ sudo pmset -a hibernatemode 0
 
 sudo pmset -a disablesleep 1
 
-sudo rm -f /var/vm/sleepimage
-
-sudo pmset hibernatefile /dev/null
-
-
 ![image](https://github.com/teddytaod/macos-BigSur-thinkpad-x250/blob/master/BigSur-beta6.png)
 ## wifi and Bluetooth NO work
