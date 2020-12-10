@@ -1,4 +1,4 @@
-# mac os-BigSur-thinkpad-x250
+# mac os-BigSur-thinkpad-x250-T450
 ### OpenCore 0.63 for MacOS BigSur 11.0.1 
 _____________________________________________________________________________________________________________
 ### huge change in OC-0.63-V2 , delete wifi and bluetooth kext ,add wifi-usb kext,and now use VoodooHDA
