@@ -2,7 +2,7 @@
 ### OpenCore 0.63 for MacOS BigSur 11.0.1 
 _____________________________________________________________________________________________________________
 ### (huge change in OC-0.63-V2 , delete wifi and bluetooth kext ,add wifi-usb kext,and now use VoodooHDA)
-# have not released yet
+#  have not been released yet ,have some errores and bugs
 
 _____________________________________________________________________________________________________________
 ### The newest OC EFI, download https://github.com/teddytaod/macos-BigSur-thinkpad-x250/releases/
