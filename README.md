@@ -1,9 +1,7 @@
-#### I am occupied by my study, I won´t update it until January,sorry
+# I am occupied by my study, I won´t update it ,sorry
 # mac os-BigSur-thinkpad-x250-T450
 ### OpenCore 0.63 for MacOS BigSur 11.0.1 
-_____________________________________________________________________________________________________________
-### (huge change in OC-0.63-V2 , delete wifi and bluetooth kext ,add wifi-usb kext,and now use VoodooHDA)
-#  has not been released yet ,has some errores and bugs
+
 
 _____________________________________________________________________________________________________________
 ### The newest OC EFI, download https://github.com/teddytaod/macos-BigSur-thinkpad-x250/releases/
