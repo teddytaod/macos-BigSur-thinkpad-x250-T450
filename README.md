@@ -1,3 +1,5 @@
+# update  https://github.com/teddytaod/mac-os-thinkpad-x250-T450-OpenCore-
+
 # I am occupied by my study, I won´t update it ,sorry
 # mac os-BigSur-thinkpad-x250-T450
 ### OpenCore 0.63 for MacOS BigSur 11.0.1 
